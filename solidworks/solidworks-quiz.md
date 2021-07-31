@@ -22,3 +22,11 @@
 - [ ] Extruded Boss/Base
 - [x] Sweep
 - [ ] Revolved Boss/Base
+
+#### Q4. Which description is best for the term "feature-based modeling"?
+
+- [ ] Assemblies are built by a number of features.
+- [x] Assemblies are built by a number of parts.
+- [ ] Drawings are built by a number of features.
+- [x] Parts are built by a number of features.
+
